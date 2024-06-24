@@ -7,6 +7,7 @@ Interesting notes:
 2)  Had to add various usability characters like "space", "return" and backspace(prosign - error).
 
 TODO:
+
 0)  Add profile code
 1)  Sometimes lags on DAH to DIT performance.
 2)  Document additional features
