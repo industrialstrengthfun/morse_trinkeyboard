@@ -1,3 +1,10 @@
+/*
+morse_trinkeyboard - v0.06
+USB/HID Keyboard using a modified Adafruit TRRS Trinkey
+by Peter Young/Industrial Strength Fun - all rights reserved
+GNU public license
+
+*/
 //  NeoPixel
 #include <Adafruit_NeoPixel.h>
 Adafruit_NeoPixel pixel(1, PIN_NEOPIXEL, NEO_GRB + NEO_KHZ800);
